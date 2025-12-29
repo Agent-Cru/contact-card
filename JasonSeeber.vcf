@@ -3,6 +3,7 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 26.0//EN
 N:Seeber;Jason;;;
 FN:Jason Seeber
+ORG:Nucleus SI;
 EMAIL;type=INTERNET;type=HOME;type=pref:agentred@winespies.com
 TEL;type=CELL;type=VOICE;type=pref:+1 (707) 628-1855
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBMRXhpZgAATU0AKgAA
@@ -519,3 +520,4 @@ PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBMRXhpZgAATU0AKgAA
  zoNMuoJh8x3wvgkc8HFZmo6N4xv7gG70i7leMYBWB+ntxX2G/iDV9PO1pjMoz1UcUsHjaeUhX2
  nAyFfjp3rRZs1ryillsdrn/9k=
 END:VCARD
+
